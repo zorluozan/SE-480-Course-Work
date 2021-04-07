@@ -1,0 +1,114 @@
+#title {
+  color:red;
+  margin-top: 30px;
+  font-style: oblique;
+}
+ul li {
+  list-style-type:none;
+  color: blue;
+  font-size: 20px;
+}
+
+#hlink {
+  text-decoration-line: none;
+  color:black;
+  font-size: 20px;
+  text-align: center;
+}
+#historytitle {
+  font-style: italic;
+  font-size: 25px;
+  color: darkorange;
+  text-align: center;
+}
+#trophies {
+  text-align: center;
+  color: chartreuse;
+  font-size: 25px;
+}
+#technical {
+  text-align: center;
+  color: chartreuse;
+  font-size: 25px;
+}
+#team {
+  text-align: center;
+  color: chartreuse;
+  font-size: 25px;
+}
+#anthem p {
+  text-align: center;
+}
+#anthem h1 {
+  text-align: center;
+  color: chartreuse;
+  font-size: 25px;
+}
+#logo {
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+#panel,#flip
+{
+padding:5px;
+border:solid 1px #c3c3c3;
+background-color: greenyellow;
+text-align: center;
+}
+#panel
+{
+padding:100px;
+display:none;
+}
+#panel .col-sm-3 {
+  background-color: cornflowerblue;
+  border: 1px solid black;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  margin: 10px;
+}
+#panel .col-sm-3:hover {
+  background-color: gray;
+  color:white;
+  text-transform: uppercase;
+}
+#submit {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  color: white;
+  background-color: blue;
+}
+
+#email {
+  color:darkred;
+  text-decoration-line: none;
+
+}
+
+#contact {
+  background-color: lightgray;
+  margin-top: 5px;
+}
+#contacttitle {
+  text-align: center;
+  font-size: 20px;
+  
+}
+
+#footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#techtable {
+  display: flex;
+  align-items: center;
+}
